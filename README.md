@@ -2,6 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hyewon's%20Github&fontSize=90)
 
+### Connect
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
   
