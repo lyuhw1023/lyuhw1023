@@ -10,12 +10,8 @@
     <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/lyuhw0_0/"/>
 </a>
 <a>
-    <img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="http://img.shields.io/badge/-lyuhw11023@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyuhw11023@gmail.com)](mailto:lyuhw11023@gmail.com)
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-
 
 
   
