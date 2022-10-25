@@ -2,7 +2,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hyewon's%20Github&fontSize=90)
 
+### Info
 
+#### 이름 : 유혜원
+#### 학교 : 한림대학교 
+#### 전공 : 빅데이터 전공
 
 ### Connect
 
