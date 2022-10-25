@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Hyewon'sㅤGithub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hyewon's%20Github&fontSize=90" />
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Hyewon's%20Github&fontSize=90)
 
 
 <!--
