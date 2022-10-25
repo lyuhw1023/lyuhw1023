@@ -6,9 +6,11 @@
 
 ### Connect
 
-<a href="https://instagram.com/lyuhw0_0">
-    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/lyuhw0_0/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="https://instagram.com/lyuhw0_0" >
+    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/lyuhw0_0/"/>
+</a>
+<a>
+    <img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyuhw11023@gmail.com)](mailto:lyuhw11023@gmail.com)
