@@ -11,8 +11,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
 
 
