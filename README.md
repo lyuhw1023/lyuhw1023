@@ -8,7 +8,8 @@
 
 - 이름 : 유혜원
 - 학교 : 한림대학교 
-- 전공 : 빅데이터 전공
+- 소속 : 정보과학대학 소프트웨어학부  주전공 : 빅데이터전공 / 복수전공 : 스마트IOT
+- 생년월일 : 2000.10.23
 
 ### Connect
 
@@ -18,6 +19,7 @@
 <a>
     <img src="http://img.shields.io/badge/-lyuhw11023@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
+- Resume : https://lyuhw1023.github.io
 
 
   
