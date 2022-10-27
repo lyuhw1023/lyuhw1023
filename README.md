@@ -2,7 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hyewon's%20Github&fontSize=90)
 
-### Info
+### 👩‍💻Info
+
+![hw](https://user-images.githubusercontent.com/52669844/198292421-b4fa429e-7bb0-4af7-97bc-aae09d43a207.png)
 
 - 이름 : 유혜원
 - 학교 : 한림대학교 
