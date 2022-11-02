@@ -4,7 +4,7 @@
 
 ### 👩‍💻Info
 
-![hw](https://user-images.githubusercontent.com/52669844/198292421-b4fa429e-7bb0-4af7-97bc-aae09d43a207.png)
+![hyewon](https://user-images.githubusercontent.com/52669844/199396843-e25e1f28-f9a9-4654-be6b-696f38ec34a8.png)
 
 - 이름 : 유혜원
 - 학교 : 한림대학교 
