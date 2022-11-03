@@ -29,7 +29,18 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
 
 
-***
+**
+
+### 📂Project📂
+- 아두이노를 이용한 자동뷔페용기 제작
+- 실시간 좌석 조회 시스템 웹 페이지 제작
+- HTML, CSS, JavaScript를 활용한 웹 블로그 제작
+- 워드프레스를 활용한 간단한 웹 블로그 제작
+- 워드프레스를 활용한 웹 프로젝트 - 예정
+- 안드로이드 스튜디오를 이용한 어플 제작 - 예정
+
+*** 
+
 ### 📖 CLASS 📖 
 |학기|과목명|
 |:---:|:---:|
@@ -85,16 +96,6 @@
  
 ***
 
-### 🎖Project🎖
-### 📂Project📂
-- 아두이노를 이용한 자동뷔페용기 제작
-- 실시간 좌석 조회 시스템 웹 페이지 제작
-- HTML, CSS, JavaScript를 활용한 웹 블로그 제작
-- 워드프레스를 활용한 간단한 웹 블로그 제작
-- 워드프레스를 활용한 웹 프로젝트 - 예정
-- 안드로이드 스튜디오를 이용한 어플 제작 - 예정
-
-*** 
 ### 🎓 Education 🎓
 - 휘경여자고등학교 (2016.03 - 2016.08)
 - 미국 미시간주 Clare High School (2016.09 - 2017.07)
