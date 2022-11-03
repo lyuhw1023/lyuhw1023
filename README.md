@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hyewon's%20Github&fontSize=90)
 
-### 👩‍💻Info
+### 👩‍💻Info👩‍💻
 
 ![hyewon](https://user-images.githubusercontent.com/52669844/199396843-e25e1f28-f9a9-4654-be6b-696f38ec34a8.png)
 
@@ -25,12 +25,12 @@
 
 
 ***  
-### 📚Studying
+### 📚 Studying 📚
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
 
 
 ***
-### 📖CLASS📖 
+### 📖 CLASS 📖 
 |학기|과목명|
 |:---:|:---:|
 |2020-1|이산구조론|
@@ -61,7 +61,7 @@
 |2022-2|소프트웨어세미나|
 
 ***
-### 💻ACTIVITIES💻
+### 💻 ACTIVITIES 💻
 - 신입생 몰입형 SW코딩캠프
 - 인공지능 교육 특강 수료
 - 2020년도 2학기 전공 멘토링(자바2)
@@ -80,7 +80,9 @@
 - 워드프레스를 활용한 웹 프로젝트 - 예정
 - 안드로이드 스튜디오를 이용한 어플 제작 - 예정
 
-### ✅✔☑Carrer
+***
+
+### ✔ Carrer ✔
 - 2020년 제 2대 소프트웨어융합대학 학생회 'STEP' 체육부원
 - 2020년 교내 소프트웨어융합대학 학술동아리 노네임 활동
 - 2021년 제 3대 소프트웨어융합대학 학생회 'WUSM' 체육부장
@@ -90,12 +92,12 @@
 
  
 *** 
-🎓Education🎓
+### 🎓 Education 🎓
 - 휘경여자고등학교 (2016.03 - 2016.08)
 - 미국 미시간주 Clare High School (2016.09 - 2017.07)
 - 해성여자고등학교 (2017.08 - 2020.02)
 - 한림대학교 정보과학대학 (2020.03 - 현재)
 ***
-### ⭐Most Used Language
+### ⭐ Most Used Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuhw1023&layout=compact)](https://github.com/lyuhw1023/github-readme-stats)
