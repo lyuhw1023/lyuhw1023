@@ -14,7 +14,10 @@
 - 생년월일 : 2000.10.23
 - Resume : https://lyuhw1023.github.io  
 
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lyuhw1023)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuhw1023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
