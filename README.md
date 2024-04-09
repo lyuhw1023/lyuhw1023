@@ -24,7 +24,7 @@
 
 ### 🖇Connect
 
-<a href="https://instagram.com/lyuhw0_0" >
+<a href="https://instagram.com/lyuhw00" >
     <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/lyuhw0_0/"/>
 </a>
 <a>
