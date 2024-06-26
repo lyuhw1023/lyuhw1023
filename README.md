@@ -33,8 +33,8 @@
 
 
 ***  
-### 📚 Studying 📚
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,java,html,css,js,mysql,dcomponents&perline="/>
+### 📚 Skills 📚
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,html,css,js,mysql,dcomponents&perline="/>
 
 
 ***
