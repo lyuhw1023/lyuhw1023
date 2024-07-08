@@ -5,7 +5,6 @@
 ### 👩‍💻Info👩‍💻
 
 - 이름 : 유혜원
-- 학교 : 한림대학교 
 - 소속 : 정보과학대학 소프트웨어학부  
      + 주전공 : 빅데이터
      + 복수전공 : 스마트IOT
@@ -39,13 +38,13 @@
 
 ### 📂 Project 📂
 - 자동뷔페용기 제작 (Arduino)
-- 실시간 좌석 조회 시스템 웹 페이지 제작 (HTML, CSS, JavaScript)
-- 웹 블로그 제작 (HTML, CSS, JavaScript)
-- 웹 블로그 제작 (WordPress)
-- 정신 건강 관리 웹 페이지, WeWith 제작 (WordPress)
-- 포트폴리오 관리 어플리케이션, SmartPortfolio 제작 (Kotlin)
-- 시각장애인을 위한 AI 카메라 서비스 어플리케이션, EYEFORYOU 제작 (Flutter)
-- 환경 보호 캠페인 플랫폼, EcoGiv 제작 (HTML, CSS, JS, JAVA, MYSQL)
+- 실시간 좌석 조회 시스템 웹 페이지 개발 (HTML, CSS, JavaScript)
+- 웹 블로그 개발 (HTML, CSS, JavaScript)
+- 웹 블로그 개발 (WordPress)
+- 정신 건강 관리 웹 페이지, WeWith 개발 (WordPress)
+- 포트폴리오 관리 애플리케이션, SmartPortfolio 개발 (Kotlin)
+- 시각장애인을 위한 AI 카메라 서비스 애플리케이션, EYEFORYOU 개발 (Flutter)
+- 환경 보호 캠페인 플랫폼, EcoGiv 개발 (HTML, CSS, JS, JAVA, MYSQL)
 
 *** 
 
@@ -85,7 +84,7 @@
 - 2022년도 2학기 SW전공 멘토링(창의코딩웹) 진행
 - 2022년도 정보과학대학 서공제 아이디어 부문 장려상
 - 2023년도 한림모여코딩 프로그램 우수활동 팀 선정
-- 2024년도 SW 캠스톤 디자인 참여
+- 2024년도 SW 캡스톤 디자인 참여
 
 ***
 
@@ -104,7 +103,5 @@
 ***
 
 ### 🎓 Education 🎓
-- 휘경여자고등학교 (2016.03 - 2016.08)
-- 미국 미시간주 Clare High School (2016.09 - 2017.07)
-- 해성여자고등학교 (2017.08 - 2020.02)
+- 해성여자고등학교 (2017 - 2020)
 - 한림대학교 정보과학대학 (2020.03 - 현재)
