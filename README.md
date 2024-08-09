@@ -44,7 +44,7 @@
 - 정신 건강 관리 웹 페이지, WeWith 개발 (WordPress)
 - 포트폴리오 관리 애플리케이션, SmartPortfolio 개발 (Kotlin)
 - 시각장애인을 위한 AI 카메라 서비스 애플리케이션, EYEFORYOU 개발 (Flutter)
-- 환경 보호 캠페인 플랫폼, EcoGiv 개발 (HTML, CSS, JS, JAVA, MYSQL)
+- 환경 보호 캠페인 플랫폼, EcoGiv 개발 (HTML, CSS, JS, MYSQL)
 - 실버타운 관리 플랫폼, SilverLife 개발 (Flutter)
 
 *** 
