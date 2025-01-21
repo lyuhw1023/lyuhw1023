@@ -8,6 +8,7 @@
 - 소속 : 정보과학대학 소프트웨어학부  
      + 주전공 : 빅데이터
      + 복수전공 : 스마트IoT
+- Email : lyuhw11023@gmail.com / <a href="mailto:lyuhw11023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 - 생년월일 : 2000.10.23
 - Resume : https://lyuhw1023.github.io 
 
@@ -17,16 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuhw1023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-***
-
-### 🖇Connect
-
-<a href="https://instagram.com/lyuhw00" >
-    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/lyuhw0_0/"/>
-</a>
-<a>
-    <img src="http://img.shields.io/badge/-lyuhw11023@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-</a>
 
 
 ***  
