@@ -33,7 +33,8 @@
 ### 🛠 Tools 🛠
 
 <div >
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=FFFFFF" style="height : 35px;"/>
+     
+  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF" style="height : 35px;"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=FFFFFF" style="height : 35px;"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" style="height : 35px;"/>
   <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" style="height : 35px;"/>
@@ -56,32 +57,44 @@
 - 실버타운 관리 플랫폼, SilverLife 개발 (Flutter)
 - 창작중심 SNS 플랫폼, TO.MORROW 개발 (Flutter)
 
-*** 
+***
 
 ### 📖 CLASS 📖 
-|학기|과목명|학기|과목명|학기|과목명|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|2020-1|이산구조론|2021-2|데이터베이스기초|2022-2|모바일프로그래밍|
-|2020-1|자바프로그래밍1|2021-2|알고리즘|2022-2|컴퓨터구조|
-|2020-1|논리설계및실험|2021-2|오픈소스하드웨어응용|2022-2|디지털신호처리|
-|2020-1|컴퓨팅사고와문제해결|2021-2|데이터통신|2022-2|오픈소스SW개발도구활용|
-|2020-2|선형대수|2022-1|인공지능|2024-1|웹서버구축|
-|2020-2|창의코딩웹|2022-1|웹프로그래밍|2024-1|운영체제|
-|2021-1|자료구조|2022-1|신호및시스템|2024-1|머신러닝|
-|2021-1|회로이론및실험|2022-1|소프트웨어공학|2024-1|소프트웨어캡스톤디자인|
-|2021-1|C프로그래밍|2022-1|프로그래밍어론|2024-2|클라우드컴퓨팅|
-|2021-1|소프트웨어개론|2022-1|데이터베이스시스템|2024-2|SW창업전략과펀딩|
-|2021-1|데이터사이언스기초|-|-|-|-|
+<details>
+  <summary>2020</summary>
+  <div>
+       
+> 이산구조론, 선형대수, 자바프로그래밍1, 자바프로그래밍2, 논리설계및실험, 컴퓨팅사고와문제해결, 창의코딩웹
+  </div>
+</details>
+<details>
+  <summary>2021</summary>
+  <div>
+       
+> 자료구조, 알고리즘, C프로그래밍, 소프트웨어개론, 데이터사이언스기초, 데이터베이스기초, 데이터통신, 오픈소스하드웨어응용, 회로이론및실험
+  </div>
+</details>
+<details>
+  <summary>2022</summary>
+  <div>
+       
+> 모바일프로그래밍, 웹프로그래밍, 데이터베이스시스템, 오픈소스SW개발도구활용, 인공지능, 소프트웨어공학, 신호및시스템, 프로그래밍이론, 컴퓨터구조, 디지털신호처리
+  </div>
+</details>
+<details>
+  <summary>2024</summary>
+  <div>
+       
+> 소프트웨어캡스톤디자인, 웹서버구축, 클라우드컴퓨팅, 운영체제, 머신러닝, SW창업전략과펀딩
+  </div>
+</details>
 
 
 ***
-### 💻 ACTIVITIES 💻
+### 💻 Activities 💻
 - 2020년도 1학기 신입생 몰입형 SW코딩캠프
 - 2020년도 2학기 인공지능 교육 특강 수료
-- 2020년도 2학기 전공 멘토링(자바2)
-- 2021년도 1학기 전공 멘토링(C언어)
-- codeit 대학생 코딩 캠프 7기 수료 (2021.6.23~ 2021.7.23)
-- 2021년도 2학기 전공 멘토링(파이썬)
+- codeit 대학생 코딩 캠프 7기 수료
 - 2022년도 정보과학대학 학술동아리 노네임 회장
 - 2022년도 1학기 SW교과목 멘토링(컴퓨팅사고 AI기초) 진행
 - 2022년도 1학기 상생러닝디딤돌 멘토링 진행
@@ -100,7 +113,7 @@
 
 ***
 
-### ✔ Career ✔
+### ✔ Student Organizations ✔
 - 2020년도 제 2대 소프트웨어융합대학 학생회 'STEP' 체육국 부원
 - 2020년도 교내 소프트웨어융합대학 학술동아리 노네임 활동
 - 2021년도 제 3대 소프트웨어융합대학 학생회 'WUSM' 체육국 부장
